@@ -17,7 +17,7 @@ siteConfigBySite:
     display-style: socialMedia
     position: 0
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 permalink: /:title/
 version: v1.0.0
 sass:
